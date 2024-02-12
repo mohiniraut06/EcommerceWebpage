@@ -1,0 +1,20 @@
+.About{
+    display: flex;
+    align-items: center;
+    width: 80%;
+    justify-content: space-between;
+    gap: 70px;
+    margin: auto;
+    margin-top: 20px;
+    transform-style: preserve-3d;
+
+}
+
+.inner{
+    margin-top: 100px;
+    transition:transform 0.5s;
+    -webkit-transition: transform 0.5s;
+}
+
+
+

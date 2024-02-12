@@ -1,0 +1,32 @@
+.Cards{
+    height: 410px;
+    width: 220px;
+    display: flex;
+    /* flex-wrap: wrap; */
+    align-items: center;
+    margin: 10px;
+    text-align: center;
+}
+
+.section{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.card{
+    height: 400px;
+    width: 220px;
+    border: 1px solid black;
+}
+
+.card h1{
+    font-size: 18px;
+}
+
+button{
+    padding: 10px;
+    background-color: orange;
+    border: none;
+}
